@@ -1,0 +1,89 @@
+<head>
+    <link rel="stylesheet" href="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-y/font-awesome/6.0.0/css/fontawesome.min.css" integrity="sha512-8Vtie9oRR62i7vkmVUISvuwOeipGv8Jd+Sur/ORKDD5JiLgTGeBSkI3ISOhc730VGvA5VVQPwKIKlmi+zMZ71w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-y/font-awesome/6.0.0/css/brands.min.css" integrity="sha512-bSncow0ApIhONbz+pNI52n0trz5fMWbgteHsonaPk42JbunIeM9ee+zTYAUP1eLPky5wP0XZ7MSLAPxKkwnlzw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="static/index-3a6a274d31.css">
+    <link rel="preload" href="https://assets.retiehe.com/blur/reichenbach-falls.jpg" as="image">
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/5.1.1/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+   <body>
+    <style>
+    div.transbox {
+        width: 400px;
+        height: 180px;
+        margin: 30px 50px;
+        background-color: #ffffff;
+        border: 1px solid black;
+        opacity:0.6;
+        filter:alpha(opacity=60); /* For IE8 and earlier */}
+    .bg-img {
+    background-attachment: fixed;
+    background-image: url(https://assets.retiehe.com/blur/reichenbach-falls.jpg);
+    background-position: center;
+    background-size: cover;}
+    .bg-cover {
+      background: linear-gradient(to right,rgba(24,37,77,.5),rgba(24,37,77,.8));}
+    .bg {
+      height: 100%;
+      left: 0;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: -1;}
+      </style>
+    <div class="bg bg-img"></div>
+    <div class="bg bg-cover"></div>
+      <main style="
+      background-color: D0D0D0 ;
+      text-align: center;
+      padding:40px;" 
+      class="transbox"> 
+        <h1>天津理工大学</h1>
+        <p style="
+        background-color: D0D0D0 ;
+        text-align: center;
+        padding: 40px;px;">电气工程及其自动化二班班级网站<br>  
+         </main>
+        <main style="max-widht:760px;
+        margin:30px auto;
+        padding:15px;0
+        line-height:1.8
+        ">
+        <h1 class="text-white" style="text-align:center">学无止境</h1>
+        <p class="text-white" style="text-align: center">这是电气二班的官方网站</p>
+        <p class="text-white" style="text-align: center">旨在整合你最需要的学习资料</p>
+        <p class="text-white" style="text-align: center">每天晚6：00更新当日资料</p>
+        <p class="text-white" style="text-align: center">------------------------------------------------------------------</p> 
+        <h1 class="text-white" style="text-align:center">大事记表</h1>
+        <p class="text-white" style="text-align: center">每日 上传当天健康状态</p>
+        <p class="text-white" style="text-align: center">长期性网课：  军事理论，形势与政策，工程制图</p>
+        <p class="text-white" style="text-align: center">2022.11.16 工程制图作业</p>
+        <p class="text-white" style="text-align: center">2022.11.14 高数作业</p>
+        <p class="text-white" style="text-align: center">2022.11.15 线性代数作业</p>
+        <p class="text-white" style="text-align: center">2022.12.7  实践报告（近代史 2000字）</p>
+        <p class="text-white" style="text-align: center">------------------------------------------------------------------</p>
+        <h1 class="text-white" style="text-align:center">学习资料</h1>
+        
+        <p class="text-white" style="text-align: center">高等数学AI</p>
+        <p class="text-white" style="text-align: center">1.<a class="link"href="https://share.weiyun.com/JLQuVOYq" rel="noopener">同步训练第五章答案</a></p>
+        
+        <p class="text-white" style="text-align: center"></p>
+        <p class="text-white" style="text-align: center"></p>
+        <p class="text-white" style="text-align: center"></p>
+        <p class="text-white" style="text-align: center">线性代数</p>
+        <p class="text-white" style="text-align: center"></p>
+        <p class="text-white" style="text-align: center"></p>
+        <p class="text-white" style="text-align: center"></p>
+        <p class="text-white" style="text-align: center"></p>
+        <p class="text-white" style="text-align: center"></p>
+        <p class="text-white" style="text-align: center">------------------------------------------------------------------</p>
+      </main>
+      <div class="aplayer-body" style="width: 400px;text-align: start;z-index:999;"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1409425935&auto=1&height=66"></iframe></div>
+      <div style="
+       background-color: #f1f1f1;
+       text-align:center;
+       padding: 40px;
+       front-size: 12px;">
+      <a class="link" href="https://magef02.github.io/Re01-for-everyone/" rel="noopener">2022 氧酚醛</a>
+      </div>
+    </body>
+  </html>
